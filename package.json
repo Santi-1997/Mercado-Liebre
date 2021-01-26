@@ -1,0 +1,15 @@
+{
+  "name": "mercado_liebre",
+  "version": "1.0.0",
+  "description": "Mercado Liebre de la clase",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
